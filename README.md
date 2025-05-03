@@ -34,13 +34,6 @@ AI Companions is a powerful framework for building interactive, conversational A
 - **Performance Optimized**: Efficient architecture for fast response times
 - **Privacy Focused**: Optional local processing for sensitive applications
 
-## 🔍 Live Demo
-
-Experience AI Companions in action: [https://ai-companions-demo.example.com](https://ai-companions-demo.example.com)
-
-Test credentials:
-- Username: `demo@example.com`
-- Password: `aicompanions`
 
 ## 🚀 Quick Start
 
